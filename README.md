@@ -9,3 +9,5 @@ Coursework 2 is displayed in the Jupyter notebook (Hvplot_volcanoes) using Hvplo
 The main dataset describes volcanoes worldwide alongside their eruptions, locations and types. My goal was to display how threatening volcanic eruptions were to the nearest population and show which countries have experiences the most eruptions over the last 1000 years.
 
 My critique and reflection of my work is included under Data_Vis_CW2_analysis.
+
+If you would like to run and view the visualisations, please download all the csv files and requirements file and the required packages will install.

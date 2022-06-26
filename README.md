@@ -1,7 +1,7 @@
 # MSc-Exploratory-Data-Analysis
 Work experience I have created throughout my Masters
 
-Coursework 1 is analysing and interpreting what I considered a 'good' visualisation using historic literatures and experts opinions, you can find this in the pdf named "CW1Visualisation_analysis" with references in "referencesCW1.pdf"
+Coursework 1 is analysing and interpreting what I considered a 'good' visualisation using historic literatures and experts opinions, you can find this in the pdf named "CW1Visualisation_analysis" with references in "CW1References.pdf"
 
 
 
